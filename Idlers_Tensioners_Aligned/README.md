@@ -6,7 +6,7 @@ I altered the front idlers as I was experiencing some tilting of the front idler
 
 Disclaimer: Only tested this on my printer, use at your own risk.
 
-![](./Idlers_Tensioners_Aligned/images/Idlers_Tensioners_Aligned.JPG)
+![](./images/Idlers_Tensioners_Aligned.jpg)
 
 All credits to the Voron team 
 https://vorondesign.com/
