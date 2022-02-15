@@ -1,3 +1,3 @@
 # Trident Mods
 
-Some mods for the Voron Trident.
+Some modifications and add-ons for the Voron Trident.
