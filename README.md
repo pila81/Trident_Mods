@@ -8,4 +8,5 @@ Note: Only tested this on my printer, use at your own risk
 
 ![](Idlers_Tensioners_Aligned.JPG)
 
-All credits to the Voron team https://vorondesign.com/
+All credits to the Voron team 
+https://vorondesign.com/
