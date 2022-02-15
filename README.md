@@ -7,3 +7,5 @@ I altered the front idlers in CAD as I was experiencing some tilting of the fron
 Note: Only tested this on my printer, use at your own risk
 
 ![](Idlers_Tensioners_Aligned.JPG)
+
+All credits to the Voron team https://vorondesign.com/
