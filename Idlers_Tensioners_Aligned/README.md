@@ -2,8 +2,8 @@
 
 **Trident front idlers with tensioners aligned to bearings**
 
-Modified front idlers as I was experiencing some tilting of the front idlers/bolts. In my head aligning the center point of tilt and tension makes sense, they run true now. 
-This modification also prevents splitting of the two printed parts.
+Modified front idlers as the idlers/bolts were tilting a bit. In my head aligning the center point of tilt and tension makes sense, they run true now. 
+This modification also prevents splitting of the two printed parts, but unfortunately looks less streamlined because the left and right are offset.
 
 Disclaimer: Only tested this on my printer, use at your own risk.
 
