@@ -10,10 +10,10 @@ An additional advantage of having the fans on the inside is the wiring for the f
 No wires on the outside of your printer!
 
 BOM:
-	- 1x Roomba 800/900 series HEPA filter
-	- 2x 6020 fan
-	- 8x M3 heat inserts
-	- 8x M3 x 30 bolts
+- 1x Roomba 800/900 series HEPA filter
+- 2x 6020 fan
+- 8x M3 heat inserts
+- 8x M3 x 30 bolts
 
 ![](./images/Exhaust_HEPA_Filter_1.PNG)
 ![](./images/Exhaust_HEPA_Filter_2.PNG)
