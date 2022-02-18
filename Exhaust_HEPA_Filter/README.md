@@ -15,10 +15,10 @@ BOM:
 - 8x M3 heat inserts
 - 8x M3 x 30 bolts
 
+![](./images/Exhaust_HEPA_Filter_4.PNG)
 ![](./images/Exhaust_HEPA_Filter_1.PNG)
 ![](./images/Exhaust_HEPA_Filter_2.PNG)
 ![](./images/Exhaust_HEPA_Filter_3.PNG)
-![](./images/Exhaust_HEPA_Filter_4.PNG)
 
 All credits for the original exhaust go to the Voron team 
 https://vorondesign.com/
