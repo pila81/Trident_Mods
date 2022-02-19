@@ -18,5 +18,5 @@ BOM:
 ![](./images/Exhaust_HEPA_Filter_2.PNG)
 ![](./images/Exhaust_HEPA_Filter_3.PNG)
 
-All credits for the original exhaust go to the Voron team 
-https://vorondesign.com/
+Credits for the original exhaust go to the Voron team: https://vorondesign.com/  
+Credits for the original design of the 'Fan_Hole_Cover_v2' go to LoganFraser: https://github.com/LoganFraser/VoronMods/tree/main/TridentInvertedElectronics
