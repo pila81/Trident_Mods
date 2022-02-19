@@ -22,7 +22,7 @@ No fingers can be harmed by spinning fan blades.
 - Filter_Holder.stl
 - Fan_Hole_Cover-v?.stl (choose either v1 or v2)
 
-**To do**
+**To do**  
 Redesign the original exhaust housing with a more minimalistic approach to fit this fan/filter mod and remove the bottom fan part.
 
 ![](./images/Exhaust_HEPA_Filter_4.PNG)
