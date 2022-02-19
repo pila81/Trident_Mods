@@ -2,7 +2,7 @@
 
 **Voron Trident exhaust using a Roomba 800/900 series HEPA filter**
 
-With the Nevermore installed the next step is an easy to replace HEPA filter to collect the UFP when venting the chamber after a print completes. Had some Roomba HEPA filters laying around so made a fan/filter mount to fit the original exhaust. The filter can be slid in and out for easy maintenance.
+With the Nevermore installed the next step was an easy to replace HEPA filter to collect the UFP when venting the chamber after a print completes. Had some Roomba HEPA filters laying around so made a fan/filter mount to fit the original exhaust. The filter can be slid in and out for easy maintenance.
 
 An additional advantage to having the fans on the inside is the wiring for the fans can be easily internally routed through the exhaust grill:   
 No wires on the outside of your printer!
