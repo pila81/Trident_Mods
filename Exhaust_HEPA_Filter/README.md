@@ -24,7 +24,7 @@ STLs to print:
 - Fan_Hole_Cover-v?.stl (choose either v1 or v2)
 
 To do:  
-Redesign the original exhaust housing to a more minimalistic approach to fit this fan/filter mod and remove the bottom fan part.
+Redesign the original exhaust housing with a more minimalistic approach to fit this fan/filter mod and remove the bottom fan part.
 
 ![](./images/Exhaust_HEPA_Filter_4.PNG)
 ![](./images/Exhaust_HEPA_Filter_1.PNG)
