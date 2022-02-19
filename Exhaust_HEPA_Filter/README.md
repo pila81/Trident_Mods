@@ -7,9 +7,9 @@ With the Nevermore installed to address the VOC inside of the chamber, the next 
 Easy maintenance:  
 The filter can be slid in and out from the outside of the exhaust, no screws. 
 
-Additional advantage:  
-Having the fans on the inside so the wiring for the fans can be easily internally routed through the exhaust grill:   
-No wires on the outside of your printer!
+Additional advantages to having the fans on the inside of the exhaust:  
+The wiring for the fans can be easily internally routed through the exhaust grill, so no wires on the outside of your printer.  
+No fingers can be harmed by spinning fan blades.
 
 BOM:
 - 1x Roomba 800/900 series HEPA filter
