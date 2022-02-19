@@ -12,6 +12,12 @@ BOM:
 - 2x 6020 fan
 - 8x M3 heat inserts
 - 8x M3 x 30 bolts
+- 4x M3 x 6/8/10/12 bolts for the fan hole cover
+
+STLs to print:
+- Fan_Mount.stl
+- Filter_Holder.stl
+- Fan_Hole_Cover-v?.stl (choose either v1 or v2)
 
 ![](./images/Exhaust_HEPA_Filter_4.PNG)
 ![](./images/Exhaust_HEPA_Filter_1.PNG)
