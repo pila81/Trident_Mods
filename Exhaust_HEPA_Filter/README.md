@@ -22,8 +22,8 @@ No fingers can be harmed by spinning fan blades.
 - Filter_Holder.stl
 - Fan_Hole_Cover-v?.stl (choose either v1 or v2)
 
-**To do**  
-Redesign the original exhaust housing with a more minimalistic approach to fit this fan/filter mod and remove the bottom fan part.
+**Note**  
+For a smaller exhaust using this HEPA filter mod look here: https://github.com/pila81/Trident_Mods/tree/main/Exhaust_HEPA_Filter_Small
 
 ![](./images/Exhaust_HEPA_Filter_4.PNG)
 ![](./images/Exhaust_HEPA_Filter_1.PNG)
