@@ -23,7 +23,7 @@ No fingers can be harmed by spinning fan blades.
 - Fan_Hole_Cover-v?.stl (choose either v1 or v2)
 
 **Note**  
-For a smaller exhaust using this HEPA filter mod look here: https://github.com/pila81/Trident_Mods/tree/main/Exhaust_HEPA_Filter_Small
+For a smaller exhaust using this HEPA filter mod look here: https://github.com/pila81/Trident_Mods/tree/main/Small_Exhaust_HEPA_Filter
 
 ![](./images/Exhaust_HEPA_Filter_4.PNG)
 ![](./images/Exhaust_HEPA_Filter_1.PNG)
