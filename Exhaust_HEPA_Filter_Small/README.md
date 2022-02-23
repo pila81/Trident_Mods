@@ -29,14 +29,14 @@ No fingers can be harmed by spinning fan blades.
 First insert the fan mount into the housing, then attach the filter cover and fans. The depth of the mounted fans prevents the fan/filter assembly from tilting into the housing. As the fans won't need much maintenance I didn't find this to be an issue.
 
 **Note**  
-For a HEPA filter mod to mount to the original exhaust look here: https://github.com/pila81/Trident_Mods/tree/main/Exhaust_HEPA_Filter
+For a HEPA filter mod to mount to the original exhaust look here: https://github.com/pila81/Trident_Mods/tree/main/Exhaust_HEPA_Filter  
 
 ![](./images/Exhaust_HEPA_Filter_Small_4.PNG)
 ![](./images/Exhaust_HEPA_Filter_Small_1.PNG)
 ![](./images/Exhaust_HEPA_Filter_Small_2.PNG)
 ![](./images/Exhaust_HEPA_Filter_Small_3.PNG)
 
-**Small vs original exhaust housing**
-![](./images/Exhaust_HEPA_Filter_Small_5.PNG)
+**Small vs original exhaust housing**  
+![](./images/Exhaust_HEPA_Filter_Small_5.PNG)  
 
 Credits for the original exhaust go to the Voron team: https://vorondesign.com/  
