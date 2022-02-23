@@ -5,7 +5,7 @@ Some modifications and add-ons for the Voron Trident.
 
 **Idlers Tensioners Aligned**  
 Trident front idlers with tensioners aligned to bearings.  
-<img src="https://github.com/pila81/Trident_Mods/blob/main/Idlers_Tensioners_Aligned/images/Idlers_Tensioners_Aligned.jpg" width="400">
+<img src="https://github.com/pila81/Trident_Mods/blob/main/Idlers_Tensioners_Aligned/images/Idlers_Tensioners_Aligned_1.jpg" width="400">
   
   
 **Exhaust HEPA Filter**  
