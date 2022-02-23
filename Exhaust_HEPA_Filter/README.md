@@ -10,6 +10,9 @@ The filter can be slid in and out from the outside of the exhaust, no screws. Th
 The wiring for the fans can be internally routed through the exhaust grill, so no wires on the outside of your printer.  
 No fingers can be harmed by spinning fan blades.
 
+**Use of other HEPA filters**
+As the filter holder is a seperate part this can be redesigned for other HEPA filters.
+
 **BOM**
 - 1x Roomba 800/900 series HEPA filter
 - 2x 6020 fan
