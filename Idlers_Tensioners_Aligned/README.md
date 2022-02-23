@@ -7,7 +7,8 @@ This modification also prevents splitting of the two printed parts, but unfortun
 
 Disclaimer: Only tested this on my printer, use at your own risk.
 
-![](./images/Idlers_Tensioners_Aligned.jpg)
+![](./images/Idlers_Tensioners_Aligned_2.jpg)
+![](./images/Idlers_Tensioners_Aligned_1.jpg)
 
 All credits to the Voron team 
 https://vorondesign.com/
