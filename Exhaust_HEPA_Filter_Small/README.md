@@ -10,7 +10,7 @@ The filter can be slid in and out from the outside of the exhaust, no screws. Th
 **Modular design**  
 As the filter holder is a seperate part this can be redesigned for other HEPA filters.
 
-**Additional advantages to having the fans on the inside of the exhaust**  
+**Other advantages**  
 The wiring for the fans can be internally routed through the exhaust grill, so no wires on the outside of your printer.  
 No fingers can be harmed by spinning fan blades.
 
@@ -20,7 +20,7 @@ No fingers can be harmed by spinning fan blades.
 - 7x M3 heat inserts
 - 7x M3 x 30 bolts
 
-**STLs to print**
+**To print**
 - Exhaust_Housing_Small.stl
 - Fan_Mount.stl
 - Filter_Holder.stl
