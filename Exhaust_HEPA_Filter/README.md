@@ -9,7 +9,7 @@ The filter can be slid in and out from the outside of the exhaust, no screws. Th
 **Modular design**  
 As the filter holder is a seperate part this can be redesigned for other HEPA filters.
 
-**Wiring on the inside of the exhaust**  
+**Other advantages**  
 The wiring for the fans can be internally routed through the exhaust grill, so no wires on the outside of your printer.  
 No fingers can be harmed by spinning fan blades.
 
