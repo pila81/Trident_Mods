@@ -20,7 +20,7 @@ No fingers can be harmed by spinning fan blades.
 - 8x M3 x 30 bolts
 - 4x M3 x 6/8/10/12 bolts for the fan hole cover
 
-**STLs to print**
+**To print**
 - Fan_Mount.stl
 - Filter_Holder.stl
 - Fan_Hole_Cover-v?.stl (choose either v1 or v2)
