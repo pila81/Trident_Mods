@@ -32,6 +32,7 @@ First insert the fan mount into the housing, then attach the filter cover and fa
 For a HEPA filter mod for the original exhaust look here: https://github.com/pila81/Trident_Mods/tree/main/Exhaust_HEPA_Filter  
 
 ![](./images/Exhaust_HEPA_Filter_Small_6.jpg)
+![](./images/Exhaust_HEPA_Filter_Small_7.jpg)
 ![](./images/Exhaust_HEPA_Filter_Small_4.PNG)
 ![](./images/Exhaust_HEPA_Filter_Small_1.PNG)
 ![](./images/Exhaust_HEPA_Filter_Small_2.PNG)
