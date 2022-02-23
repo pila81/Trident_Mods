@@ -25,6 +25,9 @@ No fingers can be harmed by spinning fan blades.
 - Filter_Holder.stl
 - Fan_Hole_Cover-v?.stl (choose either v1 or v2)
 
+**Installation**  
+Installing this assembly in the original exhaust housing while mounted is a tight fit, but it can be done. If this doesn't work for you: remove the exhaust housing, insert the fan mount into the housing, then attach the filter cover and fans.
+
 **Note**  
 For a smaller exhaust using this HEPA filter mod look here: https://github.com/pila81/Trident_Mods/tree/main/Exhaust_HEPA_Filter_Small
 
