@@ -36,4 +36,7 @@ For a HEPA filter mod to mount to the original exhaust look here: https://github
 ![](./images/Exhaust_HEPA_Filter_Small_2.PNG)
 ![](./images/Exhaust_HEPA_Filter_Small_3.PNG)
 
+**Small vs original exhaust housing**
+![](./images/Exhaust_HEPA_Filter_Small_5.PNG)
+
 Credits for the original exhaust go to the Voron team: https://vorondesign.com/  
