@@ -6,12 +6,12 @@ With the Nevermore installed to address the VOC inside of the chamber, the next 
 **Easy maintenance**  
 The filter can be slid in and out from the outside of the exhaust, no screws. The foam edge on these filters makes a good seal and a tight fit.
 
+**Modular design**  
+As the filter holder is a seperate part this can be redesigned for other HEPA filters.
+
 **Additional advantages to having the fans on the inside of the exhaust**  
 The wiring for the fans can be internally routed through the exhaust grill, so no wires on the outside of your printer.  
 No fingers can be harmed by spinning fan blades.
-
-**Use of other HEPA filters**  
-As the filter holder is a seperate part this can be redesigned for other HEPA filters.
 
 **BOM**
 - 1x Roomba 800/900 series HEPA filter
