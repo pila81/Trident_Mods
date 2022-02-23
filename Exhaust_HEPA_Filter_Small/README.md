@@ -7,6 +7,9 @@ This is a minimalistic redesign of the original exhaust to just fit the 6020 fan
 **Easy maintenance**  
 The filter can be slid in and out from the outside of the exhaust, no screws. The foam edge on these filters makes a good seal and a tight fit.
 
+**Modular design**  
+As the filter holder is a seperate part this can be redesigned for other HEPA filters.
+
 **Additional advantages to having the fans on the inside of the exhaust**  
 The wiring for the fans can be internally routed through the exhaust grill, so no wires on the outside of your printer.  
 No fingers can be harmed by spinning fan blades.
@@ -21,6 +24,9 @@ No fingers can be harmed by spinning fan blades.
 - Exhaust_Housing_Small.stl
 - Fan_Mount.stl
 - Filter_Holder.stl
+
+**Installation**  
+First insert the fan mount into the housing, then attach the filter cover and fans. The depth of the mounted fans prevents the fan/filter assembly from tilting into the housing. As the fans won't need much maintenance I didn't find this to be an issue.
 
 **Note**  
 For a HEPA filter mod to mount to the original exhaust look here: https://github.com/pila81/Trident_Mods/tree/main/Exhaust_HEPA_Filter
