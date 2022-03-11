@@ -4,7 +4,7 @@ A mount for attaching a 1x2 Microfit plug to a 2020 extrusion.
 
 **BOM**
 - 2x M2x10 self-tapping screw
-- 1x M3x6 or M3x8 button head screw (BHCS)  
+- 1x M3x6 or M3x8 button head screw (BHCS) for mounting to the extrusion  
 
 ![](./images/Microfit_2020_Mount_1x2_1.PNG)
 ![](./images/Microfit_2020_Mount_1x2_2.PNG)
