@@ -28,8 +28,9 @@ No fingers can be harmed by spinning fan blades.
 **Installation**  
 Installing this assembly in the original exhaust housing while mounted is a tight fit, but it can be done. If this doesn't work for you: remove the exhaust housing, insert the fan mount into the housing, then attach the filter cover and fans.
 
-**Note**  
-For a smaller exhaust using this HEPA filter mod look here: https://github.com/pila81/Trident_Mods/tree/main/Exhaust_HEPA_Filter_Small
+**Notes**  
+For a smaller exhaust using this HEPA filter mod look here: https://github.com/pila81/Trident_Mods/tree/main/Exhaust_HEPA_Filter_Small  
+A fan wire connector extrusion mount can be found here: https://github.com/pila81/Trident_Mods/tree/main/Microfit_2020_Mount_1x2  
 
 ![](./images/Exhaust_HEPA_Filter_5.jpg)
 ![](./images/Exhaust_HEPA_Filter_4.PNG)
