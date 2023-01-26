@@ -8,7 +8,7 @@ This is a minimalistic redesign of the original exhaust to just fit the 6020 fan
 The filter can be slid in and out from the outside of the exhaust, no screws. The foam edge on these filters makes a good seal and a tight fit.
 
 **Modular design**  
-As the filter holder is a seperate part this can be redesigned for other HEPA filters.
+As the filter holder is a separate part this can be redesigned for other HEPA filters.
 
 **Other advantages**  
 The wiring for the fans can be internally routed through the exhaust grill, so no wires on the outside of your printer.  
