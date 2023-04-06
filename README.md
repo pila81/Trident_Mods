@@ -35,4 +35,4 @@ A mount for attaching a 1x2 Microfit plug to a 2020 extrusion.
 
 **Z Carriage FLEX**  
 Z carriages using a compliant spring mechanism to cope with leadscrew wobble.  
-<img src="https://github.com/pila81/Trident_Mods/blob/main/Z_Carriage_FLEX/images/Z_Carriage_FLEX_1.PNG" width="400">
+<img src="https://github.com/pila81/Trident_Mods/blob/main/Z_Carriages_FLEX/images/Z_Carriages_FLEX_1.PNG" width="400">
