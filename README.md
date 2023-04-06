@@ -31,3 +31,8 @@ Clip-on DIN rail mount for zip ties/tie wraps.
 **Microfit_2020_Mount_1x2**  
 A mount for attaching a 1x2 Microfit plug to a 2020 extrusion.  
 <img src="https://github.com/pila81/Trident_Mods/blob/main/Microfit_2020_Mount_1x2/images/Microfit_2020_Mount_1x2_1.PNG" width="400">
+
+
+**Z Carriage FLEX**  
+Z carriages using a compliant spring mechanism to cope with leadscrew wobble.  
+<img src="https://github.com/pila81/Trident_Mods/blob/main/Z_Carriage_FLEX/images/Z_Carriage_FLEX_1.PNG" width="400">
