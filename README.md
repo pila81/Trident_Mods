@@ -3,7 +3,7 @@
 Some modifications and add-ons for the Voron Trident.  
 
 
-[**AB Stepper Mounts Pin Bearing**](AB_Stepper_Mounts_Pin_Bearing/)
+[**AB Stepper Mounts Pin Bearing**](AB_Stepper_Mounts_Pin_Bearing/)   
 Trident AB stepper mounts using pins for the idler assemblies and bearings to support the stepper shafts.
 <img src="https://github.com/pila81/Trident_Mods/blob/main/AB_Stepper_Mounts_Pin_Bearing/images/AB_Mount_Pin_Bear_2.png" width="400">
 
