@@ -2,7 +2,7 @@
 
 **Trident AB Stepper Mounts using pins and bearings**
 
-Trident AB stepper mounts using 30 mm pins for the idler assemblies and F695 bearings to support the stepper shafts.
+Trident AB stepper mounts using 5x30 mm pins for the idler assemblies and F695 bearings to support the stepper shafts.
 
 Disclaimer: Only tested this on my printer, use at your own risk.
 
