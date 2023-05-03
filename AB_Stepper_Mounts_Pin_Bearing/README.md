@@ -8,6 +8,7 @@ Disclaimer: Only tested this on my printer, use at your own risk.
 
 ![](./images/AB_Mount_Pin_Bear_1.png)
 ![](./images/AB_Mount_Pin_Bear_2.png)
+![](./images/AB_Mount_Pin_Bear_3.png)
 
 Credits for the original stepper mount design go to the Voron team 
 https://vorondesign.com/
